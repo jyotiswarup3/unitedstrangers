@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/united-strangers/clientlibs"/>
+    <filter root="/apps/united-strangers/components"/>
+    <filter root="/apps/united-strangers/i18n"/>
+    <filter root="/apps/msm/united-strangers_blueprint" mode="merge"/>
+</workspaceFilter>

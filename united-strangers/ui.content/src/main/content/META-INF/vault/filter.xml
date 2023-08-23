@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/united-strangers" mode="merge"/>
+    <filter root="/content/united-strangers" mode="merge"/>
+    <filter root="/content/dam/united-strangers/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/united-strangers" mode="merge"/>
+</workspaceFilter>
